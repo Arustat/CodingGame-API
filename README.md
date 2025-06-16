@@ -2,6 +2,8 @@
 
 Une API RESTful permettant aux utilisateurs de partager des confessions anonymes et de recevoir des réponses.
 
+Projet by : Mayssa Hamdaoui, Antonin Merlo-Meyffren
+
 ## Fonctionnalités
 
 - Création de confessions anonymes
